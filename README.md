@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giancarlo0326
 - 👀 I’m interested in computers, technology, and coding (maybe)
 - 🌱 I’m currently learning JavaScript (2nd year BS Information Technology)
-- 🌏 I’m based in the Philippines
+- 🌏 I’m based in Quezon City, Philippines
 - ⚡ Fun fact: I hate coding
 
 <!---

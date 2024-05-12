@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, PHP, and Kotlin.
 - 🏫 Currently a 2nd year Information Technology student at FEU TECH Manila
 - 🌏 I’m based in Quezon City, Philippines.
-- ⚡ Fun fact: I hate coding.
+- ⚡ 2 fun facts: I am dumb at coding, and I despise coding.
 
 <!---
 giancarlo0326/giancarlo0326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

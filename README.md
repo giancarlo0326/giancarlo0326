@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gian irl, and notredeym in games.
+- 👋 Hi, I’m Gian irl, notredeym in the internet.
 - 👀 I’m interested in computers, technology, and coding. (maybe)
 - 🌱 I’m currently learning JavaScript, PHP, and Kotlin. (i think otherwise)
 - 🏫 A sophomore IT student from FEU Institute of Technology, Manila.

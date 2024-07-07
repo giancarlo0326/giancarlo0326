@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gian irl, notredeym in the internet.
+- 👋 Hi, I’m Gian.
 - 👀 I’m interested in computers, technology, and coding. (maybe)
-- 🌱 I’m currently learning JavaScript, PHP, and Kotlin. (i think otherwise)
+- 🌱 I’m currently learning JavaScript, PHP, and Kotlin.
 - 🏫 A sophomore IT student from FEU Institute of Technology, Manila.
 - 🌏 I’m based in Quezon City, Philippines.
 - ⚡ 2 fun facts: I am dumb at coding, and I despise coding. (W chatgpt)

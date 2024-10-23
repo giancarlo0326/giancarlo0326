@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gian.
 - 👀 I’m interested in computers, technology, and coding. (maybe)
 - 🌱 I’m currently learning JavaScript, PHP, and Kotlin.
-- 🏫 A sophomore IT student from FEU Institute of Technology, Manila.
+- 🏫 A junior IT student from FEU Institute of Technology, Manila.
 - 🌏 I’m based in Quezon City, Philippines.
 - ⚡ 2 fun facts: I am dumb at coding, and I despise coding. (W chatgpt)
 

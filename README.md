@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gian.
-- 👀 I’m interested in computers, technology, and coding. (maybe)
+- 👀 I’m interested in computers, technology, and coding.
 - 🏫 A junior IT student from FEU Institute of Technology, Manila.
 - 🌏 I’m based in Quezon City, Philippines.
   
